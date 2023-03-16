@@ -1,0 +1,150 @@
+* {}
+
+body {
+    /* margin-left: 30%; */
+    padding-left: 10px;
+    box-sizing: border-box;
+    background-color: azure;
+    align-content: center;
+}
+
+h1 {
+    position: inherit;
+    color: blue;
+    font-size: 65px;
+    position: relative;
+    top: 30px;
+
+}
+
+section {
+    width: 400px;
+    height: auto;
+    background-color: white;
+    border: solid;
+    border-width: 1px;
+    text-align: center;
+    border-radius: 8px;
+}
+
+div {
+    display: inline;
+    width: 150px;
+    height: 10px;
+    size-adjust: 2px;
+    padding: 0px;
+    font-size: 12px;
+    margin: 10px 10px;
+}
+
+#phnumber,
+#password {
+    margin: 6px 0.3px;
+    height: 30px;
+    width: 160;
+    border-radius: 5px;
+    border-width: 1px;
+}
+
+#phnumber,
+#password {
+    width: 350px;
+}
+
+h2 button {
+    border-radius: 8px;
+    width: 150px;
+    height: 30px;
+    background-color: rgb(70, 195, 70);
+
+}
+
+section h2 .button {
+    font-size: 18;
+
+}
+
+section .par {
+    font-size: 12px;
+    margin: 15px 20px;
+}
+
+section a {
+    text-decoration: none;
+    position: relative;
+    left: -50px;
+}
+
+section h4 {
+    position: relative;
+    top: -53px;
+    left: -135px;
+}
+
+section #dob {
+    position: relative;
+    top: -72px;
+    left: -5px;
+    right: 20px;
+}
+
+div #fname {
+    margin-left: -1px;
+}
+
+div h2 {
+    position: relative;
+    top: 0px !important;
+    left: -152px;
+}
+
+section #p1 {
+    position: relative;
+    top: -20px;
+    font-size: 28px !important;
+    font-weight: bold;
+
+
+}
+
+section #p2,
+hr,
+#phnumber,
+#password {
+    position: relative;
+    top: -40px;
+}
+
+section #p3,
+button,
+h3 a {
+    position: relative;
+    top: auto;
+
+}
+
+button a span {
+    color: aliceblue;
+    font-size: 20px;
+    position: relative;
+    left: 49px;
+    justify-content: center;
+    box-sizing: border-box;
+    text-align: center;
+    text-decoration: aliceblue;
+
+}
+
+section #p3,
+h3 a {
+    text-align: center;
+}
+
+h2,
+h2 .fa {
+    font-weight: 100;
+}
+
+input {
+    padding-left: 10px;
+}

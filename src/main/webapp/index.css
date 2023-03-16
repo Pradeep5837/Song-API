@@ -1,0 +1,75 @@
+.facebook
+{
+    border: solid 2px white;
+    width: 400px;
+    height: 350px;
+    margin: 100px auto;
+    display: block;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+
+}
+section div{
+    padding: 10px 10px;
+}
+
+#name ,#pass
+{
+    padding: 8px 10px;
+    color: black;
+    width: 358px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    border: solid 1px gray;
+}
+body
+{
+    background-color: rgba(128, 128, 128, 0.055);
+}
+#login
+{
+    width: 100%;
+    height: 40px;
+    border-radius: 5px;
+    
+    border: none;
+    border: solid 1px gray;
+    background-color: rgba(39, 39, 145, 0.793);
+    color: white;
+    font-size: 15px;
+}
+#acc
+{
+width: 50%;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    border: solid 1px gray;
+    background-color: rgb(96, 213, 96);
+    color: white;
+    font-size: 15px;
+}
+.facebook #center
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#hr
+{
+    width: 100%;
+    height: 2px;
+    padding-bottom: 30px;
+    padding-top: -20px;
+}
+a
+{
+    font-style: none;
+    list-style: none;
+}
+h3{
+   color: red;
+}
